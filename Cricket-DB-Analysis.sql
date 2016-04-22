@@ -272,10 +272,6 @@ SELECT
  WHERE LOWER(p.fullname) LIKE '%mohammad azharuddin%' AND m.matchtype = 'ODI'
  GROUP BY p.fullname
 
-# Display a list of all teams and the total number of wins in test matches. Rank the teams 
-
-
-
 
 
 
